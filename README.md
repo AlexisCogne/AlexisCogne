@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 
 
 ## Projects
-- **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
+- 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
 - 🤖 **[Deep Reinforcement Learning Project](https://github.com/AlexisCogne/ANN_project)**: Implementation of the A2C algorithm on the Inverted Pendulum environment
 - 🧠 **[Neural Signal Processing Mini-Projects](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
 - 🐟 **[Computational Motor Control Project](https://github.com/AlexisCogne/CMC_zebrafish)**: Implementing a firing rate controller and exploring the role of stretch feedback and noise on the animal’s swimming behavior.
@@ -29,24 +29,9 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-lightgrey?logo=scikit-learn&logoColor=white)
 ![Neuroengineering](https://img.shields.io/badge/-Neuroengineering-purple?logo=brainly&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
-
-Reinforcement Learning:
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement_Learning-red?logo=robot-framework&logoColor=white)
-
-Signal Processing:
-![Signal Processing](https://img.shields.io/badge/-Signal_Processing-lightblue?logo=soundcloud&logoColor=white)
-
-MRI:
 ![MRI](https://img.shields.io/badge/-MRI-blue?logo=health&logoColor=white)
-
-Personal Branding
-Education:
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 ![EPFL](https://img.shields.io/badge/-EPFL-red?logo=academia&logoColor=white)
 
-Hobbies:
-![Marathon Runner](https://img.shields.io/badge/-Marathon_Runner-orange?logo=runkeeper&logoColor=white)
 
 
