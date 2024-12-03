@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 - **Neurostimulation & Imaging Techniques**: tSCS, MRI, MRS, MRS4Brain, Electrophysiology
 - **Computer-Aided Design & Simulations**: Catia V5, Abaqus FEA, Ansys Fluent
 - **Software Development & Game Design**: C#, PHP, Unity3D
-- **Current Focus**: EMG signal processing, MRI data analysis
+<!--- - **Current Focus**: EMG signal processing, MRI data analysis -->
 
 
 ## Public Projects
