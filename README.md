@@ -1,5 +1,5 @@
 ## About Me
-Master's student at EPFL in Neuro-Engineering.
+Master's student at EPFL in Neuro-Engineering. \
 Background in machine learning, neural signal processing, data analysis, and neuroimaging
 
 <!--
