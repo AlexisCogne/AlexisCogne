@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 - 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
 - 🤖 **[Deep Reinforcement Learning](https://github.com/AlexisCogne/ANN_project)**: Implementation of the A2C algorithm on the Inverted Pendulum environment
 - 🧠 **[Neural Signal Processing](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
-- 🐟 **[Computational Motor Control](https://github.com/AlexisCogne/CMC_zebrafish)**: Implementing a firing rate controller and exploring the role of stretch feedback and noise on the animal’s swimming behavior.
+- 🐟 **[Computational Motor Control](https://github.com/AlexisCogne/CMC_zebrafish)**: Implementing a firing rate controller and exploring the role of stretch feedback on the animal’s swimming behavior in noisy environments.
 
 
 
