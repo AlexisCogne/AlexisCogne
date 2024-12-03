@@ -25,10 +25,10 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&abbreviated=true)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-ff69b4?logo=scikit-learn&logoColor=white)
-![MRI](https://img.shields.io/badge/-MRI-blue?logo=health&logoColor=white)
+![MRI](https://img.shields.io/badge/-MRI-orange?logo=health&logoColor=white)
 
 
 
