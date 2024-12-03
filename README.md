@@ -4,7 +4,7 @@
 Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPFL, passionate about advancing neurorehabilitation and leveraging ML, signal processing, and analytics to tackle complex challenges 🚀
 
 ## About Me
-- 🎓 **Master's in Neuroengineering** at EPFL
+- 🎓 **Master's student in Neuroengineering** at EPFL
 - 🧠 Exploring applications of **AI and Signal Processing** in **Neurorehabilitation** and **MRI technology**
 - 🌍 Passionate about **accessible healthcare technologies**
 
