@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 - **Current Focus**: EMG signal processing, MRI data analysis
 
 
-## Projects
+## Public Projects
 - 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
 - 🤖 **[Deep Reinforcement Learning](https://github.com/AlexisCogne/ANN_project)**: Implementation of the A2C algorithm on the Inverted Pendulum environment
 - 🧠 **[Neural Signal Processing](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
