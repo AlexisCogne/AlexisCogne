@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 - 🐟 **[Computational Motor Control](https://github.com/AlexisCogne/CMC_zebrafish)**: Implementing a firing rate controller and exploring the role of stretch feedback on the animal’s swimming behavior in noisy environments.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=red&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green&abbreviated=true)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-lightgrey?logo=scikit-learn&logoColor=white)
