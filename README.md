@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alexis Cogne!
+# 👋 Hello, I'm Alexis!
 ### Neuroengineering | Machine Learning | Data Analysis | Signal Processing
 
 Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPFL, passionate about advancing neurorehabilitation and leveraging ML, signal processing, and analytics to tackle complex challenges 🚀
