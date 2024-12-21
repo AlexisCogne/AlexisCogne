@@ -18,9 +18,14 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 
 
 ## Public Projects
+*Fall 2024*
 - 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
-- 🤖 **[Deep Reinforcement Learning](https://github.com/AlexisCogne/ANN_project)**: Implementation of the A2C algorithm on the Inverted Pendulum environment
 - 🧠 **[Neural Signal Processing](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
+Spring 2024
+- 🔬 **Applied Data Analysis** ([Repository](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) & [Datastory Website](https://alexiscogne.github.io/ada-story-epfl/)): Mutation-driven insights into protein structure and ligand group prediction through protein and ligand embeddings  
+
+*Spring 2024*
+- 🤖 **[Deep Reinforcement Learning](https://github.com/AlexisCogne/ANN_project)**: Implementation of the A2C algorithm on the Inverted Pendulum environment
 - 🐟 **[Computational Motor Control](https://github.com/AlexisCogne/CMC_zebrafish)**: Implementing a firing rate controller and exploring the role of stretch feedback on the animal’s swimming behavior in noisy environments.
 
 
