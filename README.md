@@ -21,7 +21,6 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 *Fall 2024*
 - 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
 - 🧠 **[Neural Signal Processing](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
-Spring 2024
 - 🔬 **Applied Data Analysis** ([Repository](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) & [Datastory Website](https://alexiscogne.github.io/ada-story-epfl/)): Mutation-driven insights into protein structure and ligand group prediction through protein and ligand embeddings  
 
 *Spring 2024*
