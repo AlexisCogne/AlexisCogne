@@ -17,7 +17,18 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 <!--- - **Current Focus**: EMG signal processing, MRI data analysis -->
 
 
-## Public Projects
+## Projects
+*Oct 2025 - Sep 2026*
+- 💪 **[Harvard Biodesign Lab](https://biodesign.seas.harvard.edu/)**: Master's thesis on upper-extremity rehabilitation for stroke survivors
+
+*Summer 2025*
+- 🦵 **[MINE Lab](https://www.santannapisa.it/en/news/laboratorio-scuola-santanna-universita-san-raffaele-mine-lab)**: Extended a hybrid spinal cord stimulation model with a recording
+pipeline simulating epidural electrode signals
+
+*Spring 2025*
+- 🩻 **[Chipiron](https://www.chipiron.co/)**: Internship in Software Engineering, investigating personalized undersampling strategies for ultra-lowfield
+MRI
+  
 *Fall 2024*
 - 📊 **[Noise Reduction in MRSI](https://github.com/AlexisCogne/MRI_Practicals)**: Comparison of two approaches in FID-MRSI: Denoising (LR-TGV or MP-PCA) vs Hamming filter
 - 🧠 **[Neural Signal Processing](https://github.com/AlexisCogne/NSSP_projects)**: 1) fMRI data pre-processing | 2) EMG analysis for robotic prostheses control
