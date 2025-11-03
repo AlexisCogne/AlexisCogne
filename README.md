@@ -18,14 +18,14 @@ Welcome to my GitHub! I'm a second-year Neuroengineering Master's student at EPF
 
 
 ## Projects
-🇺🇸*Oct 2025 - Sep 2026 *
+🇺🇸*Oct 2025 - Sep 2026*
 - 💪 **[Harvard Biodesign Lab](https://biodesign.seas.harvard.edu/)**: Master's thesis on upper-extremity rehabilitation for stroke survivors
 
-🇮🇹*Summer 2025 *
+🇮🇹*Summer 2025*
 - 🦵 **[MINE Lab](https://www.santannapisa.it/en/news/laboratorio-scuola-santanna-universita-san-raffaele-mine-lab)**: Extended a hybrid spinal cord stimulation model with a recording
 pipeline simulating epidural electrode signals
 
-🇫🇷*Spring 2025 *
+🇫🇷*Spring 2025*
 - 🩻 **[Chipiron](https://www.chipiron.co/)**: Internship in Software Engineering, investigating personalized undersampling strategies for ultra-lowfield
 MRI
   
